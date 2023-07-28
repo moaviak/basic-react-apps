@@ -1,0 +1,3 @@
+[submodule "weather-app"]
+	path = weather-app
+	url = https://github.com/moaviak/weather-app.git
